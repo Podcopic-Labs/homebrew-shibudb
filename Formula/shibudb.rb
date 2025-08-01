@@ -3,7 +3,7 @@ class Shibudb < Formula
   homepage "https://github.com/Podcopic-Labs/ShibuDb"
   url "https://github.com/Podcopic-Labs/ShibuDb-distribution/releases/download/0.0.1/shibudb-0.0.1-darwin-arm64.tar.gz"
   sha256 "835d1c5f10c4882578b323eeeeed392060c5873c0c7a7ec5eae7cf596e0336d0"
-  version "0.0.1"
+  version "0.0.1-t"
   license "MIT"
 
   def install
