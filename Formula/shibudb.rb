@@ -1,10 +1,10 @@
 class Shibudb < Formula
   desc "Lightweight embedded database with KV and vector support"
   homepage "https://github.com/Podcopic-Labs/ShibuDb"
-  url "https://github.com/Podcopic-Labs/ShibuDb-distribution/releases/download/0.0.1/shibudb-0.0.1-darwin-arm64.tar.gz"
-  sha256 "935ae6072056fba22882db0d197eb811a239d6e418c080a6fde851e6e8c68556"
-  version "0.0.1"
-  license "MIT"
+  url "https://github.com/user-attachments/files/21777762/shibudb-1.0.0-darwin-arm64.tar.gz"
+  sha256 "71a58914d17019824494ce43ddfafcd429efac13492d0190e8c1d6a61aa41d0f"
+  version "1.0.0"
+  license "AGPL3"
 
   def install
     bin.install "shibudb"
